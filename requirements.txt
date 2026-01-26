@@ -91,3 +91,4 @@ ftfy~=6.0.3
 # Optional: tqdm displays nice progress bars, ipywidgets for tqdm's notebook support
 tqdm~=4.62.3
 ipywidgets~=7.6.5
+wheel>=0.46.2 # not directly required, pinned by Snyk to avoid a vulnerability
